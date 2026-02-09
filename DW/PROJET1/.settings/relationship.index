@@ -1,0 +1,102 @@
+[ {
+  "baseItem" : {
+    "id" : "_DAkKoMJAEfCoBZQ5gjl1dQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_1U6-MMI4EfCoBZQ5gjl1dQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_dlEeAL5kEfCHrY0KZqSx5w",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_u0hgAMRsEfCWX7Z4nbqWJw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_1U6-MMI4EfCoBZQ5gjl1dQ - Superstore",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_dlEeAL5kEfCHrY0KZqSx5w - entrepots",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_dlEeAL5kEfCHrY0KZqSx5w - fournisseurs",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_dlEeAL5kEfCHrY0KZqSx5w - stock",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_LEeLQL5REfCHrY0KZqSx5w",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_1U6-MMI4EfCoBZQ5gjl1dQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_dlEeAL5kEfCHrY0KZqSx5w",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_k6cCoL8gEfCvnqB5R2L8dQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_1U6-MMI4EfCoBZQ5gjl1dQ - Superstore",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_k6cCoL8gEfCvnqB5R2L8dQ - dimentrepot",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_X60RoMSeEfCRgMa2KlpThg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_1U6-MMI4EfCoBZQ5gjl1dQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_dlEeAL5kEfCHrY0KZqSx5w",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_u0hgAMRsEfCWX7Z4nbqWJw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_1U6-MMI4EfCoBZQ5gjl1dQ - Superstore",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_dlEeAL5kEfCHrY0KZqSx5w - entrepots",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_dlEeAL5kEfCHrY0KZqSx5w - fournisseurs",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_dlEeAL5kEfCHrY0KZqSx5w - stock",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_u0hgAMRsEfCWX7Z4nbqWJw - dimproduit",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]
